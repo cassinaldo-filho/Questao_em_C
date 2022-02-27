@@ -1,4 +1,4 @@
-Esse algoritmo C++ com a resposta do problema: 
+Esse algoritmo .cpp contem a resposta do problema: 
 
 
 Uma universidade deseja saber se existem os cursando, simultaneamente, as disciplinas redes de computadores e linguagens de programação. 
